@@ -1,7 +1,7 @@
 # httpwatchdog
  Yet another process movitor
 
-There are very many and very great solutions for process monitoring out there. So what is the purpose of this one.
+There are very many and very great solutions for process monitoring out there. So what is the purpose of this one?
 
 In most cases the watchdog somehow calls the monitored process and if it doesn't get the appropriate responce restarts it.
 
